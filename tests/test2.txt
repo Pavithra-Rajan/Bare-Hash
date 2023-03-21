@@ -1,0 +1,1 @@
+The Secure Hash Algorithm 256 (SHA-256) is a widely used cryptographic hash function that produces a fixed-size output of 256 bits, commonly known as the SHA256 checksum. Despite its widespread use, few cryptographers delve into the low-level implementation details of the SHA256 checksum algorithm.
